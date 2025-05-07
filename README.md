@@ -3,7 +3,7 @@
 <img align="right" alt="coding"width="400"src="https://img.freepik.com/premium-vector/programmer-concentrated-working-project-developing-programming-coding-technologies_569013-389.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zeeshan-Islam&label=Profile%20views&color=0e75b6&style=flat" alt="Zeeshan-Islam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zeeshan-Islam" alt="Zeeshan-islam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zeeshan-Islam1&theme=light" alt="Zeeshan-islam" /></a> </p>
 
 - 📫 How to reach me **hahakm34555@gmail.com**
 
